@@ -1,1 +1,4 @@
-# icestrak-child-demo
+## 使用
+- 安装: `yarn`
+- 启动调试服务: `npm start`
+- 构建 dist: `npm run build`
