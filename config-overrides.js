@@ -7,6 +7,7 @@ const outPutFn = config => {
     // config.output.path = path.join(path.dirname(config.output.path), 'dist');
     return config;
 }
+process.env.GENERATE_SOURCEMAP = "false"
 module.exports = override(
     fixBabelImports('import', {
         libraryName: 'antd',
