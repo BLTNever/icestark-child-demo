@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//dev-goods.ypsx-internal.com/static/css/main.cdcb1853.chunk.css",
+    "main.js": "//dev-goods.ypsx-internal.com/static/js/main.83a6fbb8.chunk.js",
+    "runtime~main.js": "//dev-goods.ypsx-internal.com/static/js/runtime~main.56550404.js",
+    "static/css/2.59251d41.chunk.css": "//dev-goods.ypsx-internal.com/static/css/2.59251d41.chunk.css",
+    "static/js/2.1973e46e.chunk.js": "//dev-goods.ypsx-internal.com/static/js/2.1973e46e.chunk.js",
+    "static/js/3.37c046ea.chunk.js": "//dev-goods.ypsx-internal.com/static/js/3.37c046ea.chunk.js",
+    "static/js/4.9483b10a.chunk.js": "//dev-goods.ypsx-internal.com/static/js/4.9483b10a.chunk.js",
+    "index.html": "//dev-goods.ypsx-internal.com/index.html",
+    "precache-manifest.173bd9cc4937758fe54f8a3b78e3ccff.js": "//dev-goods.ypsx-internal.com/precache-manifest.173bd9cc4937758fe54f8a3b78e3ccff.js",
+    "service-worker.js": "//dev-goods.ypsx-internal.com/service-worker.js"
+  }
+}
