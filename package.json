@@ -42,7 +42,6 @@
     "eslintConfig": {
         "extends": "react-app"
     },
-    "homepage": "//dev-goods.ypsx-internal.com",
     "browserslist": {
         "production": [
             ">0.2%",
