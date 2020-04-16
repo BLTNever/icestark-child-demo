@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//louisedylan.github.io/icestrak-child-demo/precache-manifest.59f127b936fede51f8019e8be59c8cfb.js"
+  "//louisedylan.github.io/icestrak-child-demo/precache-manifest.671e11bd085f8d99e8a3cca6d3186fd1.js"
 );
 
 self.addEventListener('message', (event) => {

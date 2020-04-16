@@ -2,7 +2,7 @@
 router.js 控制全部的路由初始化设置
 */
 import React from 'react'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom' //Redirect HashRouter BrowserRouter
+import { HashRouter as Router, Route, Switch } from 'react-router-dom' //Redirect HashRouter BrowserRouter
 import { Provider } from 'react-redux'
 import store from '../store'
 
